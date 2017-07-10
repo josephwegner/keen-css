@@ -1034,7 +1034,7 @@ img { max-width: 100%; }
 
 .b--dark-red { border-color: #e7040f; }
 
-.b--red { border-color: #ff4d5b; }
+.b--red { border-color: #dd524b; }
 
 .b--light-red { border-color: #ff725c; }
 
@@ -1042,7 +1042,7 @@ img { max-width: 100%; }
 
 .b--gold { border-color: #ffaf00; }
 
-.b--yellow { border-color: #ffd700; }
+.b--yellow { border-color: #ddcb76; }
 
 .b--light-yellow { border-color: #fbf1a9; }
 
@@ -1054,13 +1054,13 @@ img { max-width: 100%; }
 
 .b--hot-pink { border-color: #ff41b4; }
 
-.b--pink { border-color: #ff80cc; }
+.b--pink { border-color: #cb86dd; }
 
 .b--light-pink { border-color: #ffa3d7; }
 
 .b--dark-green { border-color: #137752; }
 
-.b--green { border-color: #00d17d; }
+.b--green { border-color: #69dd93; }
 
 .b--light-green { border-color: #8cc823; }
 
@@ -1068,9 +1068,9 @@ img { max-width: 100%; }
 
 .b--dark-blue { border-color: #00449e; }
 
-.b--blue { border-color: hsl(195, 100%, 46%); }
+.b--blue { border-color: #337ab7; }
 
-.b--light-blue { border-color: #96ccff; }
+.b--light-blue { border-color: #92c5dd; }
 
 .b--lightest-blue { border-color: #cdecff; }
 
@@ -3061,7 +3061,7 @@ code, .code {
 
 .dark-red { color: #e7040f; }
 
-.red { color: #ff4d5b; }
+.red { color: #dd524b; }
 
 .light-red { color: #ff725c; }
 
@@ -3069,7 +3069,7 @@ code, .code {
 
 .gold { color: #ffaf00; }
 
-.yellow { color: #ffd700; }
+.yellow { color: #ddcb76; }
 
 .light-yellow { color: #fbf1a9; }
 
@@ -3081,13 +3081,13 @@ code, .code {
 
 .hot-pink { color: #ff41b4; }
 
-.pink { color: #ff80cc; }
+.pink { color: #cb86dd; }
 
 .light-pink { color: #ffa3d7; }
 
 .dark-green { color: #137752; }
 
-.green { color: #00d17d; }
+.green { color: #69dd93; }
 
 .light-green { color: #8cc823; }
 
@@ -3095,9 +3095,9 @@ code, .code {
 
 .dark-blue { color: #00449e; }
 
-.blue { color: hsl(195, 100%, 46%); }
+.blue { color: #337ab7; }
 
-.light-blue { color: #96ccff; }
+.light-blue { color: #92c5dd; }
 
 .lightest-blue { color: #cdecff; }
 
@@ -3175,7 +3175,7 @@ code, .code {
 
 .bg-dark-red { background-color: #e7040f; }
 
-.bg-red { background-color: #ff4d5b; }
+.bg-red { background-color: #dd524b; }
 
 .bg-light-red { background-color: #ff725c; }
 
@@ -3183,7 +3183,7 @@ code, .code {
 
 .bg-gold { background-color: #ffaf00; }
 
-.bg-yellow { background-color: #ffd700; }
+.bg-yellow { background-color: #ddcb76; }
 
 .bg-light-yellow { background-color: #fbf1a9; }
 
@@ -3195,13 +3195,13 @@ code, .code {
 
 .bg-hot-pink { background-color: #ff41b4; }
 
-.bg-pink { background-color: #ff80cc; }
+.bg-pink { background-color: #cb86dd; }
 
 .bg-light-pink { background-color: #ffa3d7; }
 
 .bg-dark-green { background-color: #137752; }
 
-.bg-green { background-color: #00d17d; }
+.bg-green { background-color: #69dd93; }
 
 .bg-light-green { background-color: #8cc823; }
 
@@ -3209,9 +3209,9 @@ code, .code {
 
 .bg-dark-blue { background-color: #00449e; }
 
-.bg-blue { background-color: hsl(195, 100%, 46%); }
+.bg-blue { background-color: #337ab7; }
 
-.bg-light-blue { background-color: #96ccff; }
+.bg-light-blue { background-color: #92c5dd; }
 
 .bg-lightest-blue { background-color: #cdecff; }
 
@@ -3713,11 +3713,11 @@ code, .code {
 }
 
 .hover-red:hover {
-  color: #ff4d5b;
+  color: #dd524b;
 }
 
 .hover-red:focus {
-  color: #ff4d5b;
+  color: #dd524b;
 }
 
 .hover-light-red:hover {
@@ -3745,11 +3745,11 @@ code, .code {
 }
 
 .hover-yellow:hover {
-  color: #ffd700;
+  color: #ddcb76;
 }
 
 .hover-yellow:focus {
-  color: #ffd700;
+  color: #ddcb76;
 }
 
 .hover-light-yellow:hover {
@@ -3793,11 +3793,11 @@ code, .code {
 }
 
 .hover-pink:hover {
-  color: #ff80cc;
+  color: #cb86dd;
 }
 
 .hover-pink:focus {
-  color: #ff80cc;
+  color: #cb86dd;
 }
 
 .hover-light-pink:hover {
@@ -3817,11 +3817,11 @@ code, .code {
 }
 
 .hover-green:hover {
-  color: #00d17d;
+  color: #69dd93;
 }
 
 .hover-green:focus {
-  color: #00d17d;
+  color: #69dd93;
 }
 
 .hover-light-green:hover {
@@ -3849,19 +3849,19 @@ code, .code {
 }
 
 .hover-blue:hover {
-  color: hsl(195, 100%, 46%);
+  color: #337ab7;
 }
 
 .hover-blue:focus {
-  color: hsl(195, 100%, 46%);
+  color: #337ab7;
 }
 
 .hover-light-blue:hover {
-  color: #96ccff;
+  color: #92c5dd;
 }
 
 .hover-light-blue:focus {
-  color: #96ccff;
+  color: #92c5dd;
 }
 
 .hover-lightest-blue:hover {
@@ -3913,11 +3913,11 @@ code, .code {
 }
 
 .hover-bg-red:hover {
-  background-color: #ff4d5b;
+  background-color: #dd524b;
 }
 
 .hover-bg-red:focus {
-  background-color: #ff4d5b;
+  background-color: #dd524b;
 }
 
 .hover-bg-light-red:hover {
@@ -3945,11 +3945,11 @@ code, .code {
 }
 
 .hover-bg-yellow:hover {
-  background-color: #ffd700;
+  background-color: #ddcb76;
 }
 
 .hover-bg-yellow:focus {
-  background-color: #ffd700;
+  background-color: #ddcb76;
 }
 
 .hover-bg-light-yellow:hover {
@@ -3993,11 +3993,11 @@ code, .code {
 }
 
 .hover-bg-pink:hover {
-  background-color: #ff80cc;
+  background-color: #cb86dd;
 }
 
 .hover-bg-pink:focus {
-  background-color: #ff80cc;
+  background-color: #cb86dd;
 }
 
 .hover-bg-light-pink:hover {
@@ -4017,11 +4017,11 @@ code, .code {
 }
 
 .hover-bg-green:hover {
-  background-color: #00d17d;
+  background-color: #69dd93;
 }
 
 .hover-bg-green:focus {
-  background-color: #00d17d;
+  background-color: #69dd93;
 }
 
 .hover-bg-light-green:hover {
@@ -4049,19 +4049,19 @@ code, .code {
 }
 
 .hover-bg-blue:hover {
-  background-color: hsl(195, 100%, 46%);
+  background-color: #337ab7;
 }
 
 .hover-bg-blue:focus {
-  background-color: hsl(195, 100%, 46%);
+  background-color: #337ab7;
 }
 
 .hover-bg-light-blue:hover {
-  background-color: #96ccff;
+  background-color: #92c5dd;
 }
 
 .hover-bg-light-blue:focus {
-  background-color: #96ccff;
+  background-color: #92c5dd;
 }
 
 .hover-bg-lightest-blue:hover {
@@ -6168,17 +6168,17 @@ code, .code {
 }
 
 .nested-links a {
-  color: hsl(195, 100%, 46%);
+  color: #337ab7;
   transition: color .15s ease-in;
 }
 
 .nested-links a:hover {
-  color: #96ccff;
+  color: #92c5dd;
   transition: color .15s ease-in;
 }
 
 .nested-links a:focus {
-  color: #96ccff;
+  color: #92c5dd;
   transition: color .15s ease-in;
 }
 
@@ -6307,7 +6307,7 @@ h1, h2, h3, h4, h5, h6 {
   --near-white:   hsl(204, 15%, 93%);
   --white: #fff;*/
   /*--green:  #5ac846;*/
-  /*--navy:  #32325d;*/ /* #00b0eb */
+  /*--navy:  #32325d;*/
   /*--blue:  hsl(208, 100%, 50%);*/
   /*--blue:  hsl(200, 100%, 50%);*/
   /*--blue:  hsl(219, 95%,  59%);*/
