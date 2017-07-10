@@ -30,13 +30,13 @@ postcss(plugins).process(rawCss).then(result => {
   warnings.forEach(warning => {
     console.log(`Warning: ${warning.text}`);
   });
-  fs.writeFileSync(__dirname + '/css/keen.css', result.css);
+  fs.writeFileSync(__dirname + '/css/wd.css', result.css);
 });
 
 plugins.push(cssnano())
 plugins.push(rmComments())
 
 postcss(plugins).process(rawCss).then(result => {
-  fs.writeFileSync(__dirname + '/css/keen.min.css', result.css);
+  fs.writeFileSync(__dirname + '/css/wd.min.css', result.css);
 });
 
